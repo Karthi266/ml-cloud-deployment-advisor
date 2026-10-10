@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Generated archives
+*.zip
+
+# Local ML model files
+*.joblib
+*.pkl
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Testing/cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local output
+outputs/
+results/
