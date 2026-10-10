@@ -1,0 +1,12 @@
+{
+    "provider": "AWS",
+    "service": "AWS Lambda",
+    "region": "Asia Pacific (Mumbai)",
+    "request_price_per_request": 2.0000000000000002e-07,
+    "compute_price_per_gb_second": 1.66667e-05,
+    "currency": "USD",
+    "source": "https://aws.amazon.com/lambda/pricing/",
+    "source_type": "Official AWS published pricing",
+    "retrieved_at": "2026-10-10T06:38:17.377757+00:00",
+    "refresh_status": "official_page_verified"
+}
